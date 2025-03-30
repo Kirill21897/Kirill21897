@@ -4,6 +4,6 @@
 </div>
 <div id="socials" align="center">
     <a href="https://t.me/Kirill050905">
-        <img src="https://img. shields. io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white](https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram"/>
+        <img src="telegram.png" alt="Telegram"/>
     </a>
 </div>
