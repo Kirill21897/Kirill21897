@@ -4,6 +4,6 @@
 </div>
 <div id="socials" align="center">
     <a href="https://t.me/Kirill050905">
-        <img src="telegram (1).png" alt="Telegram"/>
+        <img src="telegram (2).png" alt="Telegram"/>
     </a>
 </div>
