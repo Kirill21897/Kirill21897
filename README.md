@@ -8,5 +8,5 @@
     </a>
 </div>
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" "title="js" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" "title="js" width="100" height="100"/>&nbsp;
 </div>
