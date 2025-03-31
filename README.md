@@ -8,6 +8,9 @@
         <img src="telegram (2).png" alt="Telegram"/>
     </a>
 </div>
+
+##
+
 <div>
     <h3><u>OS:</u></h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="100" height="100"/>&nbsp;
@@ -32,12 +35,12 @@
 
 </div>
 
-###
+##
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kirill21897&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
-###
+##
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kirill21897/Kirill21897/refs/heads/output/github-contribution-grid-snake-dark.svg" />
