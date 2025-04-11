@@ -1,6 +1,10 @@
 <div id = "header" align = "centre">
-    <h1>Bogdanov Kirill Antonovich</h1>
-    <h3>IT Developer from Kazan</h3>
+    
+   <h1>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExams3a2V4cThjOWVuaDdxaTc1bWZjYmc5bm1wZ2dkZjg3MWhxOWZzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XZTewMdFzpfdpEJChv/giphy.gif" width="50" alt="Kirill Bogdanov"/>
+    Kirill Bogdanov
+</h1>
+<h3>IT Developer from Kazan</h3>
 </div>
 <div id="socials" align="left">
     <h3>Contacts:</h3>
@@ -27,8 +31,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"  width="100" height="100"/>&nbsp
     <h3>Tools:</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100" height="100"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="100" height="100"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="100" height="100"/>&nbsp;
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2o5YWY5bHhiNGEzeG1oMGh1M3BmZXJrZnFpMnNtNXBmZTdicW5ybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYU6YcPE5YlJxh6otp/giphy.gif" width="100" height="100"/>&nbsp;
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVvYXY1Z3NqbjVqc2l4NTg0NndjM2w3MWNodmRnbnF6NXhrempuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yjSNYYnj9gAeUbSHr3/giphy.gif" width="100" height="100"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="100" height="100"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="100" height="100"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="100" height="100"/>&nbsp;
