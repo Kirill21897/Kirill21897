@@ -21,7 +21,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="100" height="100"/>&nbsp;
     <h3>Skills:</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100" height="100"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"" width="100" height="100"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="100" height="100"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="100" height="100"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  width="100" height="100"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" width="100" height="100"/>&nbsp;
@@ -40,15 +40,8 @@
 </div>
 
 ##
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kirill21897&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
-</p>
 
-##
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kirill21897/Kirill21897/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kirill21897/Kirill21897/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Kirill21897/Kirill21897/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<div align = "centre">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirill21897&langs_count=8"/>&nbsp;
+        
+</div>
