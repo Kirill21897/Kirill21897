@@ -36,6 +36,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="100" height="100"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="100" height="100"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="100" height="100"/>&nbsp;
+    <img src="https://camo.githubusercontent.com/c2474ea02223bcda94d70b5111a220ff3259c145acded59471572c35398eaea8/68747470733a2f2f72656769737472792e6e706d6d6972726f722e636f6d2f406c6f62656875622f69636f6e732d7374617469632d706e672f6c61746573742f66696c65732f6461726b2f6c616e67636861696e2d636f6c6f722e706e67" width="100" height="100"/>&nbsp;
 
 </div>
 
