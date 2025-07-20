@@ -4,7 +4,7 @@
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExams3a2V4cThjOWVuaDdxaTc1bWZjYmc5bm1wZ2dkZjg3MWhxOWZzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XZTewMdFzpfdpEJChv/giphy.gif" width="50" alt="Kirill Bogdanov"/>
     Kirill Bogdanov
 </h1>
-<h3>IT Developer from Kazan</h3>
+<h3>Python, ML/DS</h3>
 </div>
 <div id="socials" align="left">
     <h3>Contacts:</h3>
