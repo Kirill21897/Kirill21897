@@ -1,48 +1,110 @@
-<div id = "header" align = "centre">
+<div align="center">
+  <!-- Header Section -->
+  <div style="margin-top: 20px; margin-bottom: 40px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=60&pause=3500&color=f48c06&center=true&vCenter=true&width=600&height=100&lines=Kirill+Bogdanov" alt="Name" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=35&pause=3000&color=000000&center=true&vCenter=true&width=600&height=50&lines=Python+%E2%80%A2+ML+%E2%80%A2+Data+Science" alt="Role" />
+  </div>
+</div>
+
+---
+<div align="">
+  <div style="max-width: 800px; padding: 10px;">
+    <h1 style="margin: 0; color: #333; font-size: 28px;">About Me</h1>
+    <p style="margin: 10px 0 20px 0; color: #666; font-size: 16px;">🐍 Python Engineer | 🤖 ML Engineer & Data Scientist</p>
+    <div style="text-align: left; color: #444; line-height: 1.8; margin-bottom: 20px;">
+      <p>
+        Hello! I'm a developer passionate about building intelligent systems and working with data.
+        I specialize in <strong>Python</strong>, <strong>Machine Learning</strong> and <strong>Data Science</strong>.
+      </p>
+      <p>
+        🎯 <strong>What I Do:</strong> I develop ML models, build LLM-powered applications, work with vector databases, and create data processing pipelines.
+      </p>
+      <p>
+        💡 <strong>Focus Areas:</strong> NLP, Computer Vision, MLOps, LLM-integration (LangChain, OpenAI, HuggingFace).
+      </p>
+      <p>
+        🌱 <strong>Always Learning:</strong> New transformer architectures, fine-tuning techniques, RAG systems.
+      </p>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
+      <img src="https://img.shields.io/badge/Experience-1.5%2B%20Years-f48c06?style=for-the-badge&logo=star&logoColor=white" alt="Experience" height="28"/>
+      <img src="https://img.shields.io/badge/Projects-20%2B-blue?style=for-the-badge&logo=github&logoColor=white" alt="Projects" height="28"/>
+      <img src="https://img.shields.io/badge/Location-Russia-%234A90E2?style=for-the-badge&logo=map-marker&logoColor=white" alt="Location" height="28"/>
+    </div>
     
-   <h1>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExams3a2V4cThjOWVuaDdxaTc1bWZjYmc5bm1wZ2dkZjg3MWhxOWZzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XZTewMdFzpfdpEJChv/giphy.gif" width="50" alt="Kirill Bogdanov"/>
-    Kirill Bogdanov
-</h1>
-<h3>Python, ML/DS</h3>
-</div>
-<div id="socials" align="left">
-    <h3>Contacts:</h3>
-    <a href="https://t.me/Kirill050905">
-        <img src="telegram (2).png" alt="Telegram"/>
-    </a>
+  </div>
 </div>
 
-##
+## 🛠️ Tech Stack
 
-<div>
-    <h3><u>OS:</u></h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="100" height="100"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="100" height="100"/>&nbsp;
-    <h3>Skills:</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100" height="100"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="100" height="100"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="100" height="100"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  width="100" height="100"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" width="100" height="100"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="100" height="100"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"  width="100" height="100"/>&nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"  width="100" height="100"/>&nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"  width="100" height="100"/>&nbsp
-    <h3>Tools:</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100" height="100"/>&nbsp;
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2o5YWY5bHhiNGEzeG1oMGh1M3BmZXJrZnFpMnNtNXBmZTdicW5ybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYU6YcPE5YlJxh6otp/giphy.gif" width="100" height="100"/>&nbsp;
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVvYXY1Z3NqbjVqc2l4NTg0NndjM2w3MWNodmRnbnF6NXhrempuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yjSNYYnj9gAeUbSHr3/giphy.gif" width="100" height="100"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="100" height="100"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="100" height="100"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="100" height="100"/>&nbsp;
-    <img src="https://camo.githubusercontent.com/c2474ea02223bcda94d70b5111a220ff3259c145acded59471572c35398eaea8/68747470733a2f2f72656769737472792e6e706d6d6972726f722e636f6d2f406c6f62656875622f69636f6e732d7374617469632d706e672f6c61746573742f66696c65732f6461726b2f6c616e67636861696e2d636f6c6f722e706e67" width="100" height="100"/>&nbsp;
-
+<!-- Languages Section -->
+<div style="margin-bottom: 40px;"; align="">
+  <h3 style="border-bottom: 3px solid #f48c06; display: inline-block; padding-bottom: 5px; margin-bottom: 20px; color: #333;">💻 Languages</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" style="height: 60px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" style="height: 60px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" alt="C++" style="height: 60px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" alt="C#" style="height: 60px;" />
+  </div>
 </div>
 
-##
+<div style="margin-bottom: 40px;"; align="">
+    <h3 style="border-bottom: 3px solid #f48c06; display: inline-block; padding-bottom: 5px; margin-bottom: 20px; color: #333;">📚 Libraries & Frameworks</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" height="60" style="margin: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" height="60" style="margin: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" height="60" style="margin: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="60" style="margin: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="60" style="margin: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="OpenCV" height="60" style="margin: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="60" style="margin: 10px;"/>
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" alt="LangChain" height="60" style="margin: 10px;"/>
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langgraph-color.png" alt="LangGraph" height="60" style="margin: 10px;"/>
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langfuse-color.png" alt="LangFuse" height="60" style="margin: 10px;"/>
+</div>
 
-<div align = "centre">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirill21897&langs_count=8"/>&nbsp;
-        
+<div style="margin-bottom: 40px;"; align="">
+  <h3 style="border-bottom: 3px solid #f48c06; display: inline-block; padding-bottom: 5px; margin-bottom: 20px; color: #333;">🤖 AI & LLM</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" alt="" style="height: 60px;" />
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/ollama.png" alt="" style="height: 60px;" />
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/qwen-color.png" alt="" style="height: 60px;" />
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/gemini-color.png" alt="" style="height: 60px;" />
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/mistral-color.png" alt="" style="height: 60px;" />
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/grok.png" alt="" style="height: 60px;" />
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/dalle-color.png" alt="" style="height: 60px;" />
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png" alt="" style="height: 60px;" />
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/perplexity-color.png" alt="" style="height: 60px;" />
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/huggingface-color.png" alt="" style="height: 60px;" />
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/copilot-color.png" alt="" style="height: 60px;" />
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/cursor.png" alt="" style="height: 60px;" />
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/trae-color.png" alt="" style="height: 60px;" />
+  </div>
+</div>
+
+<!-- Databases Section -->
+<div style="margin-bottom: 40px;"; align="">
+  <h3 style="border-bottom: 3px solid #f48c06; display: inline-block; padding-bottom: 5px; margin-bottom: 20px; color: #333;">🗄️ Databases</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="height: 60px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" style="height: 60px;" />
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/qdrant.svg" alt="Qdrant" style="height: 60px;" />
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chroma.svg" alt="Chroma" style="height: 60px;" />
+  </div>
+</div>
+
+<!-- Tools Section -->
+<div style="margin-bottom: 40px;"; align="">
+  <h3 style="border-bottom: 3px solid #f48c06; display: inline-block; padding-bottom: 5px; margin-bottom: 20px; color: #333;">🔧 Tools</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="height: 60px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" style="height: 60px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" style="height: 60px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" style="height: 60px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="PyCharm" style="height: 60px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" style="height: 60px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" style="height: 60px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-plain.svg" alt="PowerShell" style="height: 60px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="PowerShell" style="height: 60px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="PowerShell" style="height: 60px;" />
+  </div>
 </div>
