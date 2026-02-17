@@ -108,3 +108,21 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="PowerShell" style="height: 60px;" />
   </div>
 </div>
+
+---
+
+<div align="center">
+  <div style="max-width: 800px; padding: 10px;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-top: 20px;">
+      <a href="mailto:bogdanokir21897@gmail.com" style="text-decoration: none;">
+        <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" height="40" style="margin: 5px;"/>
+      </a>
+      <a href="https://github.com/Kirill21897" style="text-decoration: none;">
+        <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="40" style="margin: 5px;"/>
+      </a>
+      <a href="https://web.telegram.org/@Nostalgia050905" style="text-decoration: none;">
+        <img src="https://cdn.simpleicons.org/telegram/229ED9" alt="Telegram" height="40" style="margin: 5px;"/>
+      </a>
+    </div>
+  </div>
+</div>
