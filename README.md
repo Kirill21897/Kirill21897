@@ -28,7 +28,7 @@
     </div>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
       <img src="https://img.shields.io/badge/Experience-1.5%2B%20Years-f48c06?style=for-the-badge&logo=star&logoColor=white" alt="Experience" height="28"/>
-      <img src="https://img.shields.io/badge/Projects-20%2B-blue?style=for-the-badge&logo=github&logoColor=white" alt="Projects" height="28"/>
+      <img src="https://img.shields.io/badge/Projects-10%2B-blue?style=for-the-badge&logo=github&logoColor=white" alt="Projects" height="28"/>
       <img src="https://img.shields.io/badge/Location-Russia-%234A90E2?style=for-the-badge&logo=map-marker&logoColor=white" alt="Location" height="28"/>
     </div>
     
