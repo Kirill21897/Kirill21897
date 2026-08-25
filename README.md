@@ -27,30 +27,48 @@ I specialize in **Python**, **Machine Learning** and **Data Science**.
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<img src="assets/languages.png" alt="Python, C, C++, C#" width="288" />
+**Languages**
 
-### 📚 Libraries & Frameworks
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,cpp,c&theme=dark&titles=true" alt="Languages" />
 
-<img src="assets/libraries.png" alt="NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, OpenCV, FastAPI, LangChain, LangGraph, LangFuse" width="504" />
+**ML & Computer Vision**
 
-### 🤖 AI & LLM
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,numpy,pandas,polars,scikitlearn,opencv,cuda&theme=dark&titles=true&perline=7" alt="ML & Computer Vision" />
+<br/>
+<img src="https://img.shields.io/badge/ONNX-242938?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
 
-<img src="assets/ai.png" alt="OpenAI, Ollama, Qwen, Gemini, Mistral, Grok, DALL-E, Claude, Perplexity, HuggingFace, Copilot, Cursor, Trae" width="504" />
+**LLM, RAG & Agents**
 
-### 🗄️ Databases
+<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,langchain,llamaindex,ollama,mcp,pydantic&theme=dark&titles=true&perline=6" alt="LLM, RAG & Agents" />
+<br/>
+<img src="https://img.shields.io/badge/LangGraph-242938?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/vLLM-242938?style=for-the-badge&logo=vllm&logoColor=white" alt="vLLM" />
+<img src="https://img.shields.io/badge/Langfuse-242938?style=for-the-badge" alt="Langfuse" />
 
-<img src="assets/databases.png" alt="PostgreSQL, MongoDB, Qdrant, Chroma" width="288" />
+**Backend & Data**
 
-### 🔧 Tools
+<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,postgresql,qdrant,mongodb,redis,celery,kafka&theme=dark&titles=true&perline=7" alt="Backend & Data" />
 
-<img src="assets/tools.png" alt="Git, GitHub, GitLab, VS Code, PyCharm, Bash, PowerShell, Colab, Kaggle, Jupyter, Docker" width="504" />
+**Infra & MLOps**
 
----
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,linux,git,github,gitlab,mlflow,wandb,grafana,ros&theme=dark&titles=true&perline=5" alt="Infra & MLOps" />
+
+**Dev Tools**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,jupyter,googlecolab,cursor,gradio,streamlit&theme=dark&titles=true&perline=7" alt="Dev Tools" />
+
+</div>
 
 ## 📫 Contacts
 
-<a href="mailto:bogdanokir21897@gmail.com"><img src="assets/contact-gmail.png" alt="Email" width="52" /></a>
-<a href="https://github.com/Kirill21897"><img src="assets/contact-github.png" alt="GitHub" width="52" /></a>
-<a href="https://t.me/Nostalgia050905"><img src="assets/contact-telegram.png" alt="Telegram" width="52" /></a>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/bogdanokir21897%40gmail.com-242938?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:bogdanokir21897@gmail.com)
+
+[![Telegram](https://img.shields.io/badge/%40Nostalgia050905-242938?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Nostalgia050905)
+
+[![GitHub](https://img.shields.io/badge/Kirill21897-242938?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kirill21897)
+
+</div>
